@@ -1,0 +1,7 @@
+model,metric,mean,ci_low,ci_high
+full,MCC,0.8869,0.8804,0.8936
+full,FPR,0.0027,0.0013,0.0045
+full,recall,0.9937,0.9933,0.9941
+light,MCC,0.8537,0.8468,0.8609
+light,FPR,0.0005,0.0,0.0012
+light,recall,0.9913,0.9908,0.9917

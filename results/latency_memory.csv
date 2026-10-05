@@ -1,0 +1,3 @@
+model,median_ms,p95_ms,mean_ms,file_MB,baseline_rss,after_load_rss,after_predict_rss,peak_rss,load_delta,predict_delta
+full,3.154,4.068,3.899,0.482,109.7,193.3,194.9,2559.7,83.6,1.6
+light,1.796,2.149,2.179,0.147,110.5,189.7,191.4,2559.7,79.2,1.7
