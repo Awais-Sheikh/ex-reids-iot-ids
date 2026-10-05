@@ -6,7 +6,7 @@ Author: Awais (ORCID: 0009-0009-4503-4451)
 
 ## Contents
 
-- `EX_REIDS_01.ipynb`: analysis notebook (run on Kaggle). **Add this file to the repository** (Kaggle: File -> Download Notebook).
+- `EX_REIDS_01.ipynb`: analysis notebook (run on Kaggle). It is the chronological working notebook, so some cells were re-run after session restarts.
 - `results/`: CSV tables produced by the notebook.
 - `figures/`: SHAP figures and ROC/precision-recall figure.
 - `requirements.txt`: package versions reported by the notebook environment.
